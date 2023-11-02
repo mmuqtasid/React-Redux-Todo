@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+
+# Production build
+build/
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Editor files
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# User-specific files
+npm-debug.log
+yarn-error.log
+yarn-error.log
